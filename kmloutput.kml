@@ -1,0 +1,3657 @@
+<Document xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Style id="slowest">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="slow">
+    <LineStyle>
+      <color>ffcc00cc</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="medium">
+    <LineStyle>
+      <color>5014F0FF</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="fast">
+    <LineStyle>
+      <color>501478FF</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="fastest">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Point 2</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.98235492198</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.997479274569</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.262494545939</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60947,54.980026,nan-1.609455,54.980087,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 3</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.7086641967</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.67266631381</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.440175345739</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609455,54.980087,316.13-1.609546,54.980034,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 4</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.46772085831</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.35253155119</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.355929355576</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609546,54.980034,319.35-1.609629,54.980015,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 5</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.0434283003</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.29191832862</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.603136402268</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609629,54.980015,312.9-1.609728,54.97991,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 6</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.1510340791</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.02157629701</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.531993762372</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609728,54.97991,306.45-1.609827,54.97983,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 7</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.5169639867</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.0738519981</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.808908420552</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609827,54.97983,303.23-1.61002,54.979816,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 8</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.9150615202</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.8450087886</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.748686523315</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61002,54.979816,303.23-1.610199,54.97981,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 9</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>24.2659639114</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.46656627305</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.912254282382</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610199,54.97981,306.45-1.610417,54.9798,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 10</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>20.9152814172</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.98789734531</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.786288775082</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610417,54.9798,316.13-1.610605,54.979794,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 11</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.90162885</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.41451840714</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.635399580827</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610605,54.979794,325.81-1.610757,54.979794,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 12</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.2376229413</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.89108899161</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.497654997793</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610757,54.979794,332.26-1.610874,54.979816,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 13</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>35.0078825563</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>5.00112607947</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610874,54.979816,325.81-1.611185,54.979767,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 14</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.897857151</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.69969387871</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.447287862818</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611185,54.979767,335.48-1.611292,54.979767,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 15</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.0986377684</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.29980539548</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.60521194618</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611292,54.979767,335.48-1.611436,54.979782,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 16</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.97294266013</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.4247060943</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.374922656396</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611436,54.979782,338.71-1.611353,54.979816,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 17</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.2917698244</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.89882426063</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.499690594902</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611353,54.979816,338.71-1.61124,54.979855,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 33</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.6008774876</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.51441106966</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.398529228859</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611216,54.979744,367.74-1.611311,54.979736,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 34</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>25.159779085</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.594254155</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.94585635658</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611311,54.979736,364.52-1.611537,54.979725,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 35</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.6891702235</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.52702431765</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.401848504645</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611537,54.979725,348.39-1.611441,54.97973,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 36</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.1983664478</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.88548092111</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.496179189766</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611441,54.97973,332.26-1.611324,54.97971,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 37</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.3520298272</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.05028997531</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.80270788824</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611324,54.97971,329.03-1.611516,54.979713,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 38</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.5294051087</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.64705787268</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.69659417702</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611516,54.979713,312.9-1.611677,54.97967,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 39</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.146619915</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.59237427357</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.682203756204</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611677,54.97967,316.13-1.611806,54.97957,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 40</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.3398450705</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.76283501007</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.463903950017</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611806,54.97957,335.48-1.611821,54.97946,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 41</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.2897539715</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.0413934245</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.537208795922</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611821,54.97946,332.26-1.611833,54.979332,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 42</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.92849564373</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.27549937768</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.335657730967</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611833,54.979332,332.26-1.611859,54.979256,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 43</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.1663835672</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.880911938171</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.231818931098</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611859,54.979256,322.58-1.61189,54.97921,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 44</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.370938169</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.48156259557</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.389884893571</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61189,54.97921,319.35-1.611842,54.97913,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 45</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>25.2171834157</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.60245477368</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.948014414125</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611842,54.97913,312.9-1.612025,54.978996,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 46</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.8239822061</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.97485460087</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.519698579176</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612025,54.978996,319.35-1.612144,54.97896,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 47</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>23.981467143</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.42592387758</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.901558915152</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612144,54.97896,319.35-1.612359,54.978943,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 48</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.2497087026</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.74995838609</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.723673259497</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612359,54.978943,316.13-1.61253,54.978916,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 49</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>23.7393791507</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.39133987867</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.892457862809</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61253,54.978916,316.13-1.612713,54.978806,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 50</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.8591747517</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.40845353596</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.633803562096</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612713,54.978806,319.35-1.612827,54.978706,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 51</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.8448645845</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.54926636922</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.670859570847</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612827,54.978706,319.35-1.61294,54.978592,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 52</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.502000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.9728836011</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.85326908587</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.487702391018</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61294,54.978592,312.9-1.613021,54.978508,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 53</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.497000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.5818320146</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.79740457351</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.473001203555</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613021,54.978508,325.81-1.613103,54.97843,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 54</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.0863212991</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.72661732845</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.45437298117</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613103,54.97843,325.81-1.613164,54.97834,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 55</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.7537322108</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.96481888726</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.51705760191</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613164,54.97834,322.58-1.613284,54.97837,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 56</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.7596744493</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.53709634989</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.404499039446</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613284,54.97837,309.68-1.613376,54.9784,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 59</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.9031468766</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.84330669665</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.748238604382</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613394,54.978405,312.9-1.613568,54.978447,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 60</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.8110652659</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.83015218085</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.48161899496</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613568,54.978447,319.35-1.613683,54.97844,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 61</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.1329745499</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.30471064998</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.606502802627</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613683,54.97844,325.81-1.613816,54.978382,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 62</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.3665140647</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.90950200925</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.502500528749</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613816,54.978382,316.13-1.613919,54.97832,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 63</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.3124052367</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.61605789096</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.425278392357</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613919,54.97832,312.9-1.613958,54.978226,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 64</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.8258847842</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.83226925489</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.482176119708</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613958,54.978226,300.0-1.614022,54.97813,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 65</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.05349797304</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.15049971043</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.302763081693</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.614022,54.97813,309.68-1.61399,54.978065,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 66</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>5.67094125888</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.810134465554</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.213193280409</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61399,54.978065,312.9-1.614041,54.978065,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 80</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.2070717143</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.6010102449</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.4213184855</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.614031,54.97805,322.58-1.614112,54.97811,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 81</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>7.138142848</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.01973469257</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.268351234887</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.614112,54.97811,312.9-1.614048,54.978115,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 82</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>7.28216349415</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.04030907059</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.273765544893</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.614048,54.978115,306.45-1.613983,54.978107,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 84</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.27270479015</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.18181497002</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.311003939479</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613974,54.978104,309.68-1.613918,54.978153,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 85</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.5767468908</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.51096384154</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.6607799583</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613918,54.978153,312.9-1.614008,54.978283,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 86</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.8596871432</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.97995530617</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.521040870044</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.614008,54.978283,300.0-1.613944,54.97839,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 87</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>24.6650604403</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.5235800629</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.927257911288</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613944,54.97839,306.45-1.613727,54.978436,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 89</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>23.4859903757</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.35514148224</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.882931969011</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613716,54.978424,296.77-1.613509,54.978382,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 90</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.9244529207</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.56063613152</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.673851613558</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613509,54.978382,303.23-1.613348,54.97839,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 91</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.3196085433</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.61708693475</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.688707088092</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613348,54.97839,303.23-1.613186,54.97836,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 92</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.4804155563</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.21148793661</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.318812614898</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613186,54.97836,300.0-1.613123,54.978317,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 93</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.851000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.3003493793</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.90004991133</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.500013134561</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613123,54.978317,312.9-1.613013,54.97827,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 94</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.498000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>20.6834510185</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.95477871693</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.77757334656</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.613013,54.97827,309.68-1.612827,54.978268,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 95</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.502000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>20.2813833788</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.89734048268</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.762458021759</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612827,54.978268,303.23-1.612645,54.978256,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 96</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>26.0690961589</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.72415659413</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.980041208982</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612645,54.978256,300.0-1.612412,54.97823,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 97</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>20.0112574607</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.85875106581</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.752302912056</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612412,54.97823,296.77-1.612237,54.978188,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 98</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.077076856</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.15386812228</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.5668074006</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612237,54.978188,293.55-1.612106,54.978153,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 99</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>26.5133531262</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.78762187517</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.996742598729</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.612106,54.978153,283.87-1.611879,54.97808,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 100</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.1231228813</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.01758898304</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.530944469221</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611879,54.97808,283.87-1.611773,54.97801,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 101</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.7365804301</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.96236863287</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.516412798125</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611773,54.97801,290.32-1.611665,54.97795,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 107</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.2770623317</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.75386604739</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.46154369668</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611668,54.977947,306.45-1.611658,54.977837,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 108</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.0090520776</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.71557886823</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.451468123218</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611658,54.977837,296.77-1.611766,54.977837,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 109</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>4.74037843342</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.67719691906</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.178209715542</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slowest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611766,54.977837,293.55-1.611799,54.97781,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 115</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.11734495547</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.87390642221</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.229975374266</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611801,54.977825,293.55-1.611799,54.97788,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 123</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.66905599963</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.952722285662</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.250716390964</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611769,54.97796,380.65-1.611769,54.97802,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 124</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>4.58314359729</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.654734799613</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.172298631477</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slowest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611769,54.97802,390.32-1.611753,54.978058,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 133</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.42232640789</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.20318948684</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.316628812327</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611799,54.97808,419.35-1.61177,54.97815,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 134</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.5650882887</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.79501261268</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.735529634915</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61177,54.97815,416.13-1.611683,54.977997,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 135</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.9857924255</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.71225606078</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.450593700206</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611683,54.977997,358.06-1.611632,54.978092,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 136</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.0688505262</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.29555007517</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.604092125044</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611632,54.978092,335.48-1.611495,54.978046,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 137</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.90162885</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.41451840714</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.635399580827</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611495,54.978046,319.35-1.611343,54.978046,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 138</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.5841217711</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.51201739587</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.397899314703</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611343,54.978046,322.58-1.611253,54.978077,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 139</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>25.9236727513</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.70338182161</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.974574163581</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.611253,54.978077,329.03-1.61102,54.978085,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 140</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>23.8104190549</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.40148843642</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.895128535899</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.61102,54.978085,325.81-1.610807,54.978107,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 141</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>27.4398212912</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.91997447017</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610807,54.978107,325.81-1.610564,54.97815,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 142</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.1562545683</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.02232208118</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.795347916101</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610564,54.97815,329.03-1.610374,54.97816,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 143</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.7128632219</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.81612331742</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.741085083531</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610374,54.97816,303.23-1.610197,54.97815,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 144</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.9191432527</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.70273475038</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.711245986942</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610197,54.97815,300.0-1.610027,54.978157,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 145</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>24.7300073787</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.53285819696</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.929699525516</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.610027,54.978157,303.23-1.609811,54.97821,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 146</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.41736017</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.63105145286</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.692381961279</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609811,54.97821,296.77-1.609676,54.978306,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 147</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.6403191641</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.52004559488</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.663169893389</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609676,54.978306,306.45-1.609585,54.978436,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 148</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.1162955305</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.87375650435</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.493093816935</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609585,54.978436,319.35-1.609586,54.978554,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 149</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.5677207953</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.93824582791</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.510064691554</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609586,54.978554,332.26-1.609582,54.978676,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 150</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.1759966828</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.8822852404</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.495338221157</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609582,54.978676,338.71-1.609633,54.978783,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 151</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.6129678939</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.23042398484</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.586953680221</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609633,54.978783,348.39-1.609602,54.97892,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 152</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.1806283015</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.45437547165</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.382730387276</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609602,54.97892,358.06-1.609585,54.97901,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 153</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.7032371663</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.81474816661</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.477565307003</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609585,54.97901,351.61-1.609616,54.97912,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 154</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.1692679475</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.73846684964</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.457491276221</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609616,54.97912,345.16-1.609647,54.979225,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 155</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.4182287392</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.34546124845</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.61722664433</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609647,54.979225,351.61-1.609603,54.979366,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 156</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.569265091</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.22418072728</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.585310717706</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609603,54.979366,358.06-1.609579,54.979504,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 157</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.2286381573</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.74694830818</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.459723238995</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609579,54.979504,361.29-1.609581,54.979614,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 158</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.0039542165</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.5719934595</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.413682489343</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609581,54.979614,367.74-1.609581,54.979713,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 159</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>7.80540590094</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.11505798585</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.293436312065</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609581,54.979713,367.74-1.609622,54.97977,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 160</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>10.2180207261</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.45971724658</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.384136117522</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609622,54.97977,351.61-1.609657,54.979855,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 161</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.0508322042</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.72154745774</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.453038804668</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609657,54.979855,351.61-1.609684,54.97996,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 162</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.92795676687</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.41827953812</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.373231457401</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609684,54.97996,345.16-1.609634,54.980034,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 163</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.1701445858</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.31002065511</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.607900172398</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609634,54.980034,338.71-1.60951,54.98011,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 164</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.1490877025</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.7355839575</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.456732620395</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60951,54.98011,325.81-1.609448,54.9802,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 165</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.6303466269</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.23290666099</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.587607016049</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609448,54.9802,303.23-1.609363,54.980312,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 166</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.3166287893</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.18808982704</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.575813112379</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609363,54.980312,300.0-1.609257,54.9804,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 167</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.7525051331</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.53607216187</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.66738741102</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609257,54.9804,303.23-1.609115,54.980473,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 168</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.9220611129</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.13172301612</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.560979741085</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.609115,54.980473,300.0-1.608986,54.98051,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 169</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.2394966328</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.03421380469</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.798477317022</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.608986,54.98051,322.58-1.608804,54.980568,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 170</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.932571065</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.990367295</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.523780867106</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.608804,54.980568,329.03-1.60868,54.98055,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 171</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>24.1406536552</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.44866480788</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.907543370496</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60868,54.98055,332.26-1.608477,54.980473,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 172</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.9329807101</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.13328295859</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.824548146997</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.608477,54.980473,319.35-1.608287,54.98042,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 173</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>26.1221215589</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.73173165128</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.982034645073</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.608287,54.98042,322.58-1.608054,54.98039,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 174</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>25.5989755104</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.65699650148</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.962367500389</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.608054,54.98039,319.35-1.607824,54.9804,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 175</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>27.4047161611</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.91495945159</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.607824,54.9804,296.77-1.607578,54.980385,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 176</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>22.3678620056</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.19540885795</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.84089706788</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.607578,54.980385,312.9-1.607377,54.980377,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 177</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.5524756141</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.07892508772</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.810243444138</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.607377,54.980377,325.81-1.607188,54.98042,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 178</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>18.5301567963</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.64716525661</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.69662243595</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.607188,54.98042,312.9-1.60703,54.980473,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 179</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.2168311437</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.45954730625</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.647249291118</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60703,54.980473,312.9-1.606889,54.980537,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 180</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.50817324092</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.35831046299</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.357450121839</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.606889,54.980537,312.9-1.606805,54.980553,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 181</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>17.8361858706</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.54802655295</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.670533303407</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.606805,54.980553,329.03-1.606682,54.980656,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 182</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.9862740416</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.85518200594</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.751363685774</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.606682,54.980656,322.58-1.606543,54.98077,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 183</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>58.6648344044</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>8.3806906292</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.606543,54.98077,319.35-1.606027,54.98088,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 184</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.6824222435</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.38320317764</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.627158730957</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.606027,54.98088,322.58-1.605902,54.980797,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 185</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.1217556839</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.01739366912</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.530893070822</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605902,54.980797,300.0-1.605775,54.980797,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 186</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.4960695919</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.9280099417</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.244213142553</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605775,54.980797,293.55-1.605717,54.980804,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 187</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>14.5585208166</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.07978868808</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.547312812653</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605717,54.980804,293.55-1.605672,54.980927,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 188</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.17443020895</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.16777574414</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.307309406352</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605672,54.980927,290.32-1.605644,54.980995,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 189</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>8.23414393138</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.17630627591</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.309554283135</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605644,54.980995,293.55-1.605583,54.981037,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 190</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>24.622952444</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.51756463486</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.925674903909</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605583,54.981037,309.68-1.605375,54.981113,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 191</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.0428462501</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.57754946431</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.41514459587</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605375,54.981113,290.32-1.605285,54.981155,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 200</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>43.915175864</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>6.273596552</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605285,54.981155,287.1-1.60559,54.980904,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 203</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>133.994240542</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>19.1420343631</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60559,54.980904,nan-1.604579,54.98156,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 205</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>33.2816279201</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>4.7545182743</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604579,54.98156,nan-1.604824,54.981388,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 207</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>55.099663041</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>7.87138043443</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604824,54.981388,nan-1.605264,54.98116,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 209</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.633230923</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.37617584615</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.625309433197</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60524,54.98115,287.1-1.605212,54.981297,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 210</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>31.5248448571</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>4.5035492653</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.605212,54.981297,277.42-1.604929,54.98128,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 211</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>16.5300842578</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.36144060825</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.621431739013</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604929,54.98128,274.19-1.604783,54.981308,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 212</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.04204837925</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.29172119704</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.339926630799</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604783,54.981308,277.42-1.604812,54.981384,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 213</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.5748038464</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.22497197806</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.585518941595</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604812,54.981384,274.19-1.604921,54.981472,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 214</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>12.3698221861</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.76711745516</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.465030909252</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604921,54.981472,270.97-1.604929,54.981583,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 215</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>13.0521541021</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.86459344316</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.490682485041</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604929,54.981583,283.87-1.604919,54.9817,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 216</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>11.2354461662</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.60506373803</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.422385194219</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604919,54.9817,287.1-1.604873,54.98179,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 218</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.68158204352</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.38308314907</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.363969249757</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604863,54.9818,283.87-1.604814,54.981728,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 219</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>9.76482306233</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>1.39497472319</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.367098611366</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604814,54.981728,283.87-1.60478,54.981647,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 220</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>15.212730153</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.17324716472</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.57190714861</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#medium</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.60478,54.981647,287.1-1.604729,54.98152,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 221</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.499000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>39.0423303526</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>5.57747576465</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604729,54.98152,293.55-1.604517,54.98124,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 222</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>86.755303664</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>12.3936148091</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604517,54.98124,306.45-1.6049,54.98192,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 223</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>63.5230573022</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>9.07472247175</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>1</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.6049,54.98192,322.58-1.604663,54.9814,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 224</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>21.9329836641</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>3.13328338058</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.824548258048</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fastest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604663,54.9814,325.81-1.604473,54.981453,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 225</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>19.6839148579</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>2.81198783684</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.739996799168</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#fast</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604473,54.981453,322.58-1.604617,54.981556,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 226</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.500000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>6.95910257524</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.994157510749</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.261620397565</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slow</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604617,54.981556,329.03-1.604678,54.98157,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Point 227</name>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>0:00:07.501000</value>
+      </Data>
+      <Data name="Distance Metres">
+        <value>4.36058170092</value>
+      </Data>
+      <Data name="Average Speed m/s">
+        <value>0.622940242988</value>
+      </Data>
+      <Data name="Normalized Speed">
+        <value>0.163931642892</value>
+      </Data>
+    </ExtendedData>
+    <styleUrl>#slowest</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <gx:altitudeMode>relative</gx:altitudeMode>
+      <coordinates>-1.604678,54.98157,338.71-1.604715,54.981583,0</coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Stopped at: The Hancock</name>
+    <description>&lt;img src="https://d30y9cdsu7xlg0.cloudfront.net/png/250091-200.png" /&gt;</description>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>112</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.611245,54.979836</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stopped at: Crows Nest</name>
+    <description>&lt;img src="https://lh4.googleusercontent.com/-9uhGe5zFJHc/T_HiyRIqzTI/AAAAAAAAFLI/LXsj9QEuDbM/s1600-w500-h500/" /&gt;Hey, it looks like you're at Crows Nest on a pub crawl. Want to see other bars in your area?</description>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>112</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.614038,54.978058</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stopped at: The Five Swans</name>
+    <description>&lt;img src="https://lh4.googleusercontent.com/-lFCtlKWfklo/Vk49NbVrxHI/AAAAAAABFYs/4JFHuocRpFE/s1600-w500-h500/" /&gt;Hey, it looks like you're at The Five Swans on a pub crawl. Want to see other bars in your area?</description>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>187</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.611659,54.977943</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stopped at: As You Like It</name>
+    <description>&lt;img src="https://lh6.googleusercontent.com/-qsu-wjn6Mho/VUEB3KtA4HI/AAAAAAAAAEc/0TCMAmnu5Sk/s1600-w500-h500/" /&gt;Hey, it looks like you're at As You Like It on a pub crawl. Want to see other bars in your area?</description>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>97</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.605285,54.981155</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stopped at: The Carriage</name>
+    <description>&lt;img src="https://d30y9cdsu7xlg0.cloudfront.net/png/250091-200.png" /&gt;Hey, it looks like you're at The Carriage on a pub crawl. Want to see other bars in your area?</description>
+    <ExtendedData>
+      <Data name="Time Length">
+        <value>82</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.604729,54.9816</coordinates>
+    </Point>
+  </Placemark>
+</Document>
