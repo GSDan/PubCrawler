@@ -253,6 +253,8 @@ for i, st in enumerate(allStops):
 		st.marked = True
 		stopsToAdd.append(st)
 
+pubs = -1
+
 # We've got the final list of stops, add them to the KML
 # Check to see if we can get the bar information from google places API
 for ind, stop in enumerate(stopsToAdd):
@@ -275,7 +277,12 @@ for ind, stop in enumerate(stopsToAdd):
 
 	description = '<img src="{}" />'.format(placephoto)
 
-	if ind > 0:
+	if placename == "Unknown place":
+		continue
+
+	pubs += 1
+
+	if pubs > 0:
 		description = description + "Hey, it looks like you're at {} on a pub crawl. Want to see other bars in your area?".format(placename)
 
 	doc.append(
